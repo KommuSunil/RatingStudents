@@ -2,6 +2,8 @@ package ko20127260.corejava.rating.KO20127260_CoreJAVA_Rating;
 import java.util.Scanner;
 
 public class MainApp {
+	
+	// This is a main class for accessing the features 
 
 	public static void main(String[] args) {
 		Distributions distributions = new Distributions();
